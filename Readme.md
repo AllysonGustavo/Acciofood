@@ -1,0 +1,1 @@
+Procura um produto em todas as lojas abertas com preço determinado
